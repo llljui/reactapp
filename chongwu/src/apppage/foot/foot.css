@@ -1,0 +1,7 @@
+._foot {width: 1249px;height: 214px;margin: 0 auto;}
+._foot span{font-size: 10px;font-weight: bold;position: relative;left: 132px;}
+._foot ul{width: 700px;height: 90px; overflow: hidden;left: 150px;top:-37px;position: relative;} 
+._foot ul li{float:left;margin-left: 15px;margin-top:5px;font-size: 10px;}
+.sao ul{position: relative;left: 100px;width: 720px;height: 110px;}
+.sao ul li{width: 218px;height: 100px;margin: 0 auto;}
+.sao ul li span{position: relative;float: left;left: 155px;top: 30px;}

@@ -1,0 +1,12 @@
+.logo_1{
+	width: 1349px;height: 88px;}
+.search{width: 550px;height: 85px;position: relative;left: 400px;top: -90px;}
+.logo_1-logo{width: 180px; height:88px;margin-left:10px; }
+.logo_1-logo-1{position: relative;left: 600px;top: -160px;}
+.list{position: relative;top: -33px;left: 20px;}
+.list ul li{float: left;margin-left: 15px;}
+.list ul li a h5{font-weight:normal;}
+.put{ width: 450px;height: 30px;border: 2px solid #ee5544;margin-top:10px;}
+span strong{vertical-align: middle;}
+.search span{display: inline-block; width: 95px;height: 36px;text-align: center; font-size: 20px; color:white;background-color:#ee5544;position: relative;cursor: pointer;top: -1.5px;}
+.search span:hover{text-shadow: 0 0 15px blue;}

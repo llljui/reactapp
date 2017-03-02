@@ -1,0 +1,16 @@
+.App{width:99%;height: 80px;border-bottom: 1px solid #ddd; }
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;float: left;
+}
+.nava_l{height: 36px;width: 600px;}
+.nava_r{height: 36px;width: 450px;position: relative;left: 820px; top: -40px;}
+.nava_l li{float: left; margin-left: 20px;line-height:350%;}
+.nava_r li{float: left; margin-right: 40px;line-height:150%;}
+.nava_l li a h5:hover{color: red;}
+.nava_r li a h5:hover{font-size:large; }
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
